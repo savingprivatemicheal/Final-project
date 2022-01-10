@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Mix",
+				"Mix_Volume"
+			],
+			[
+				"skill",
+				"skillMusic"
+			],
+			[
+				"dead",
+				"deadMusic"
+			],
+			[
+				"Mix_",
+				"Mix_Music"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"A",
+				"Alterframe"
+			],
+			[
+				"vec",
+				"vec2f"
+			],
+			[
+				"frame",
+				"frame_count"
+			],
+			[
+				"begin",
+				"beginning"
+			],
+			[
+				"cl",
+				"cleanup"
+			],
+			[
+				"end",
+				"end_label"
+			],
+			[
+				"SDL_",
+				"SDL_QUIT"
+			],
+			[
+				"res",
+				"restartcontinue"
+			],
+			[
+				"draw",
+				"drawin"
+			],
+			[
+				"time",
+				"timecover"
+			],
+			[
+				"behe",
+				"beheadTex"
+			],
+			[
+				"blue_skill",
+				"blue_skillword"
+			],
+			[
+				"bl",
+				"blue_skill"
+			],
+			[
+				"be",
+				"behead"
+			],
+			[
+				"ti",
+				"ticks"
+			],
+			[
+				"ch",
+				"check_hit"
+			],
+			[
+				"la",
+				"lasting"
+			],
+			[
+				"last",
+				"lastingticks"
+			],
+			[
+				"tp",
+				"tppos"
+			],
+			[
+				"b",
+				"bpos"
+			],
+			[
+				"tim",
+				"timefreeze"
+			],
+			[
+				"T",
+				"Timefreeze"
+			],
+			[
+				"ca",
+				"can_shoot"
+			],
+			[
+				"do",
+				"doit"
+			],
+			[
+				"di",
+				"divide"
+			],
+			[
+				"in",
+				"initframe"
+			],
+			[
+				"Al",
+				"Alterframe"
+			],
+			[
+				"B",
+				"Behead"
+			],
+			[
+				"S",
+				"Skills"
+			],
+			[
+				"d",
+				"damage"
+			],
+			[
+				"P",
+				"Player"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"dst",
+				"dst"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/angry/OneDrive/桌面/0109/lipopo-not-goto-but-state-/include/Player.hpp",
+		"/C/Users/angry/OneDrive/桌面/0109/lipopo-not-goto-but-state-/src/player.cpp",
+		"/C/Users/angry/OneDrive/桌面/0104/lipopo-not-goto-but-state-/include/Mapspawn.hpp",
+		"/C/Users/angry/OneDrive/桌面/0104/lipopo-not-goto-but-state-/src/skills.cpp",
+		"/C/Users/angry/OneDrive/桌面/0104/lipopo-not-goto-but-state-/games.sublime-project",
+		"/C/Users/angry/OneDrive/桌面/0104/lipopo-not-goto-but-state-/src/behead.cpp",
+		"/C/Users/angry/OneDrive/桌面/0104/lipopo-not-goto-but-state-/include/Timefreeze.hpp",
+		"/C/Users/angry/OneDrive/桌面/0104/lipopo-not-goto-but-state-/src/timefreeze.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/renderwindow.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/entity.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/mapspawn.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/player.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/shootblock.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/timefreeze.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/choosestate.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/blockclock.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/behead.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/math.cpp",
+		"/C/Users/angry/OneDrive/桌面/lipopo bug 0103/gameloop_lippo/lipopo-bug/src/skills.cpp",
+		"/C/Users/lipoh/OneDrive/桌面/專題0103/gameloop/res/gfx/bluewin.png",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Behead.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Math.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Player.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/RenderWindow.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Shootblock.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Skills.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Timefreeze.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Utils.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Mapspawn.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Blockclock.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/ChooseState.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Entity.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/games.sublime-project",
+		"/C/Users/lipoh/OneDrive/桌面/gameloop/include/Mapspawn.hpp",
+		"/C/Users/lipoh/OneDrive/桌面/gameloop/include/Player.hpp",
+		"/C/Users/lipoh/OneDrive/桌面/gameloop/include/RenderWindow.hpp",
+		"/C/Users/lipoh/OneDrive/桌面/gameloop/include/Shootblock.hpp",
+		"/C/Users/lipoh/OneDrive/桌面/gameloop/include/Skills.hpp",
+		"/C/Users/lipoh/OneDrive/桌面/gameloop/include/Timefreeze.hpp",
+		"/C/Users/lipoh/OneDrive/桌面/gameloop/games.sublime-project",
+		"/C/Users/angry/OneDrive/桌面/gameprj/src/main.cpp",
+		"/Users/austin/Desktop/game/gameloop/include/Blockclock.hpp",
+		"/Users/austin/Desktop/game/gameloop/include/RenderWindow.hpp",
+		"/Users/austin/Desktop/game/gameloop/games.sublime-project",
+		"/Users/austin/Desktop/game/gameloop/include/Shootblock.hpp",
+		"/Users/austin/Desktop/game/gameloop/include/Mapspawn.hpp",
+		"/Users/austin/Desktop/game/gameloop/src/behead.cpp",
+		"/Users/austin/Desktop/game/gameloop/src/skills.cpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/src/shootblock.cpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/src/blockclock.cpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/src/player.cpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/src/renderwindow.cpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/src/entity.cpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/src/mapspawn.cpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/~$melore.docx",
+		"/C/Users/angry/OneDrive/桌面/gameprj/src/shootgroup.cpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/include/Shootgroup.hpp",
+		"/C/Users/angry/OneDrive/桌面/gameprj/res/gfx/Sprite-0002.png",
+		"/C/Users/angry/OneDrive/桌面/gameprj/renderwindow.o",
+		"/C/Users/angry/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"check_collision",
+			"pos",
+			"#",
+			"();\n",
+			"if(moving==true&&inc==true){\n\t\t\t\tnext = 1;\n\t\t\t}",
+			";\n",
+			"){\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
